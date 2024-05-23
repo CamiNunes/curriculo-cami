@@ -65,6 +65,15 @@ ul {
   padding-left: 20px;
 }
 
+.profile a {
+  color: #3a3a3a; /* Cor azul para os links */
+  text-decoration: none; /* Remove a linha abaixo dos links */
+  font-weight: bold; /* Deixa a fonte em negrito */
+}
+.profile a:hover {
+  color: #1558b0; /* Cor um pouco mais escura quando o link é focado */
+}
+
 .subtittle {
   color: #191970;
   font-weight: bold;
